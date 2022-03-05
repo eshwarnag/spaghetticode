@@ -1,5 +1,9 @@
 Features To Implement :
 - Array
+  + Add element to the array
+  + Printing the array
+  + Remove an element in the array at a specified index
+  + Optimizing the array's capacity
   + Adding an element at a specified index
   + Getting an element at a specified index
   + To check if the array is empty
@@ -8,4 +12,4 @@ Features To Implement :
   + To find the index of an element
   + To create a clone of the array
   + To resize the array
-  - Remove element
+  + Remove element
