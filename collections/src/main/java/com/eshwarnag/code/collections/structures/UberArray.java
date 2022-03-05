@@ -1,7 +1,7 @@
 package com.eshwarnag.code.collections.structures;
 
 /**
- * UberArray is a flexible array that can hold any element type as its elements and which resizes automatically to add or remove elements.
+ * UberArray is a flexible array that can hold any data type and resizes automatically to add or remove elements.
  */
 public class UberArray {
 
