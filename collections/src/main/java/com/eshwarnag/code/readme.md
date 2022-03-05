@@ -1,4 +1,4 @@
-Features To Implement :
+Features :
 - Array
   + Add element to the array
   + Printing the array
